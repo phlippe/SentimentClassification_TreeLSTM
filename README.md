@@ -13,11 +13,11 @@ Assignment 2 (Sentiment Classification with Deep Learning) for the course "Natur
   - _Problem_: strongly imbalanced dataset, especially for small tree => MAF (see below)
   - [ ] Moving Average Filters for Loss Weighting
   - Which heuristic for determining the probabilities of tree heights at each iteration?
-  - [ ] Strong attention module/mechanism in Tree LSTMs
+  - [x] Strong attention module/mechanism in Tree LSTMs
 - [ ] Use context-free grammar rules to distinguish between different binary tree combinations (adjective and noun, verb and object, ...) and train different weights (might help) <= Need analysis of dataset first!
-- [ ] More detailed analysis during evaluation:
-  - [ ] How do we perform depending on the class?
-  - [ ] How do we perform depending on height fo the tree (and class)?
+- [x] More detailed analysis during evaluation:
+  - [x] How do we perform depending on the class?
+  - [x] How do we perform depending on height fo the tree (and class)?
   - [x] Print out (small) examples during eval to understand prediction behaviour
   - [x] Print out the hardest/easiest training examples
 - [ ] More detailed analysis of dataset
