@@ -7,6 +7,14 @@ This paper was written in the context of the second partical assignment (Sentime
 
 The code is structured into two jupyter notebooks. 
 
+### Mandatory_model.ipynb
+
+This notebook summarizes all experiments and models from the mandatory assignment part (BOW, CBOW, Deep CBOW, LSTM, Tree-LSTM). In addition, we create all plots which are shown in the paper in this notebook. The results for other models are taken into account by the text files provided next to the notebooks.
+
+### TreeLSTMs.ipynb
+
+This notebook contains all experiments from our proposed models. Please note that executing this notebook will take a longer time as the training is set to 50,000 iterations. 
+
 ## Open ideas
 - [x] Train standard LSTMs with attention modules 
   - _Result_: no (significant) improvement
