@@ -15,8 +15,8 @@ This notebook summarizes all experiments and models from the mandatory assignmen
 
 ### TreeLSTMs.ipynb
 
-This notebook contains all experiments from our proposed models. Please note that executing this notebook will take a longer time as the training is set to 50,000 iterations. 
+This notebook contains all experiments from our proposed models. Please note that executing this notebook will take a longer time as the training is set to 50,000 iterations. We therefore advise to use the pretrained models (see below) for test purpose.
 
 ### Pretrained models
 
-Pretrained models can be found here (_will be added soon_). 
+Pretrained models can be found here (_will be added soon_). For plotting, the needed test predictions/accuracies are provided in text file which are saved in the notebook folder. 
