@@ -19,4 +19,4 @@ This notebook contains all experiments from our proposed models. Please note tha
 
 ### Pretrained models
 
-Pretrained models can be found here (_will be added soon_). For plotting, the needed test predictions/accuracies are provided in text file which are saved in the notebook folder. 
+Pretrained models can be found [here](https://drive.google.com/drive/folders/1WqqQ5VwCGF1vCLMWWIsh54Z7pkjsvo30?usp=sharing). For plotting, the needed test predictions/accuracies are provided in text file which are saved in the notebook folder. 
