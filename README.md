@@ -19,4 +19,4 @@ This notebook contains all experiments from our proposed models. Please note tha
 
 ### Pretrained models
 
-Pretrained models can be found [here](https://drive.google.com/drive/folders/1WqqQ5VwCGF1vCLMWWIsh54Z7pkjsvo30?usp=sharing). For plotting, the needed test predictions/accuracies are provided in text file which are saved in the notebook folder. 
+Pretrained models can be found [here](https://drive.google.com/drive/folders/1WqqQ5VwCGF1vCLMWWIsh54Z7pkjsvo30?usp=sharing). Please download the checkpoint folder and save it in the folder _notebook_. For plotting, the needed test predictions/accuracies are provided in text file which are saved in the notebook folder as well. If the checkpoint folder is not downloaded, the benchmark models need to be trained and saved because the plot evaluation is based on loading these models and running over test set.
